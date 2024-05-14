@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Brandlovrs](http://brandlovrs.com/)
 
-- 🌱 I’m currently learning **Golang & C#**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **Back-end Development**
 
