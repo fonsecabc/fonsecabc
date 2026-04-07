@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Generative Artifical Intelligence**
 
-- 💬 Ask me about **Back-end Development**
+- 💬 Ask me about **Agents Development**
 
 - 📫 How to reach me **caiobragadafonseca@gmail.com**
 
